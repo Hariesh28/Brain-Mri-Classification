@@ -98,6 +98,10 @@ Training and validation metrics (accuracy and loss) are plotted using Matplotlib
 - DenseNet: [https://arxiv.org/abs/1608.06993](https://arxiv.org/abs/1608.06993)
 - TensorFlow Documentation: [https://www.tensorflow.org/](https://www.tensorflow.org/)
 
+## Deployment
+
+The app is deployed at: [https://brain-mri-classification.streamlit.app/](https://brain-mri-classification.streamlit.app/)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
